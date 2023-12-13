@@ -27,7 +27,7 @@ To set up the project on your local machine:
 
 ## Clone the repository:
 
-git clone https://github.com/yourusername/yourfrontendrepo.git
+git clone https://github.com/pemawangchuk2023/crowdfunding/tree/main/client
 
 ## In the project directory, you can run:
 
