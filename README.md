@@ -30,14 +30,14 @@ cd https://github.com/pemawangchuk2023/crowdfunding.git
 npm install
 ```
 
-Configuration
+## Configuration
 
 Create a .env file in the root directory and add your Ethereum wallet private key
 and Sepolia Testnet RPC URL:
 
 PRIVATE_KEY=""
 
-Using Alchemy for Sepolia Testnet Connection
+## Using Alchemy for Sepolia Testnet Connection
 
 This project uses Alchemy to connect to the Sepolia Testnet. Alchemy provides a
 reliable and scalable infrastructure for Ethereum blockchain applications
@@ -45,7 +45,7 @@ reliable and scalable infrastructure for Ethereum blockchain applications
 SEPOLIA_URL=""
 
 
-Usage
+## Usage
 
 To deploy the smart contract to the Sepolia Testnet, run:
 
@@ -53,7 +53,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
+## Fork the repository.
 Create a new branch: git checkout -b <branch_name>.
 Make your changes and commit them: git commit -am 'Add some feature'.
 Push to the original branch: git push origin [project_name]/[location].
