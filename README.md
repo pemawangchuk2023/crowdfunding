@@ -3,7 +3,7 @@
 ## Description
 
 This project implements a crowdfunding smart contract on the Sepolia Testnet.
-The contract allows users to create and contribute to crowdfunding campaigns
+The smart contract allows users to create and contribute to crowdfunding campaigns
 in a decentralized manner, leveraging the Ethereum blockchain.
 
 ## Features
@@ -32,9 +32,18 @@ npm install
 
 Configuration
 
-Create a .env file in the root directory and add your Ethereum wallet private key and Sepolia Testnet RPC URL:
-PRIVATE_KEY=your_private_key
-RPC_URL=your_rpc_URL
+Create a .env file in the root directory and add your Ethereum wallet private key
+and Sepolia Testnet RPC URL:
+
+PRIVATE_KEY=""
+
+Using Alchemy for Sepolia Testnet Connection
+
+This project uses Alchemy to connect to the Sepolia Testnet. Alchemy provides a
+reliable and scalable infrastructure for Ethereum blockchain applications
+
+SEPOLIA_URL=""
+
 
 Usage
 
