@@ -25,43 +25,14 @@ Yarn or npm (for managing packages)
 
 To set up the project on your local machine:
 
-Clone the repository:
-bash
-Copy code
+## Clone the repository:
+
 git clone https://github.com/yourusername/yourfrontendrepo.git
-Navigate to the project directory:
-bash
-Copy code
-cd yourfrontendrepo
-Install dependencies:
-bash
-Copy code
-npm install
-Available Scripts
 
-In the project directory, you can run:
+## In the project directory, you can run:
 
-npm run dev:
+1. npm run dev:
 Runs the app in the development mode using Vite.
-npm run build:
-Builds the app for production to the dist folder.
-npm run lint:
-Runs ESLint to check for code quality and formatting issues.
-npm run preview:
-Serves the production build locally for preview.
-Building and Running for Production
-
-To build the project for production, use:
-
-bash
-Copy code
-npm run build
-After building, you can preview the production build by running:
-
-bash
-Copy code
-npm run preview
-Contributing
 
 Contributions to the frontend of the Web3 Crowdfunding Project are welcome.
 Please follow standard GitHub fork and pull request workflow.
