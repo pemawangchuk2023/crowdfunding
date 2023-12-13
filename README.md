@@ -1,6 +1,6 @@
-# Web3 Crowdfunding Project
+# Web3 Crowdfunding 
 
-## Description
+## The Summary of CrowdFunding
 
 This project implements a crowdfunding smart contract on the Sepolia Testnet.
 The smart contract allows users to create and contribute to crowdfunding campaigns
